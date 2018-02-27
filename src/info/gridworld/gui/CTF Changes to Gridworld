@@ -1,0 +1,5 @@
+Changes to GridWorld to customize for CTF
+
+1. Auto zoom is turned off in GridPanel - DEFAULT_CELL_SIZE is set to 12x12 icons and does not auto change in recalculateCellSize
+2. Background is set to Soccer-field.jpg in paintComponent method of GridPanel
+3. Speed is automatically set to fastest possible 
